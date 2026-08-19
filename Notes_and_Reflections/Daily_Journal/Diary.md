@@ -48,7 +48,7 @@ $\textbf{2026/08/07}$
 $\texttt{昨天打完 Div2，今天又有 EDU，含 CF 浓度最高的一集}$
 
 $\textbf{2026/08/08}$
-$\texttt{被 EDU 的 E 阴到了，Wrong Answer on test #21 是你吗}$
+$\texttt{被 EDU 的 E 阴到了，Wrong Answer on test 21 是你吗}$
 
 $\textbf{2026/08/09}$
 $\texttt{Div2}$ 
@@ -81,7 +81,6 @@ $\textbf{2026/08/18}$
 $\texttt{外出}$
 
 $\textbf{2026/08/19}$
-$\texttt{外出}$
+$\texttt{回来了，并配置了新的 PC}$
+$\texttt{Thinkbook16+ 5070 i7}$
 
-$\textbf{2026/08/20}$
-$\texttt{外出}$

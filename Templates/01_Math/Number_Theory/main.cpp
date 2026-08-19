@@ -13,6 +13,7 @@ const int mod = 998244353;
 
 namespace Combinatorics_ {
     std :: vector<int> fac, ifac, inv;
+    
     inline int qpow(int a, int b, int p) {
         int s = 1, bas = a; 
         while(b) {
@@ -42,7 +43,6 @@ namespace Combinatorics_ {
         // ensure 2 * n < N
         return 1ll * fac[2 * n] * ifac[n] % mod * ifac[n + 1] % mod;
     }
-    
     inline void mian() {
         
     }
@@ -114,7 +114,6 @@ namespace Number_Theory_ {
         if(m == 0) return 1; 
         return 1ll * lucas(n / p, m / p, p) * Combinatorics_ :: binom(n % p, m % p) % p; 
     }
-    inline 
     inline void mian() {
         
     }
