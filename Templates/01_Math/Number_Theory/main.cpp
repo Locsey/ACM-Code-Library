@@ -1,5 +1,5 @@
 #include<bits/stdc++.h>
-
+#include <cassert>
 using ll = long long; 
 using ull = unsigned long long; 
 using db = double; 
@@ -62,6 +62,7 @@ namespace Number_Theory_ {
     }
     std :: vector < int > primes; 
     std :: vector < int > phi, mu; 
+    
     inline void euler_sieve(int n) {
         std :: vector < bool > vis(n + 1, false); 
         phi.resize(n + 1), mu.resize(n + 1), phi[1] = mu[1] = 1; 
@@ -100,7 +101,7 @@ namespace Number_Theory_ {
         assert(d == 1); 
         return (x % p + p) % p; 
     }
-    inline ll CRT(int n, std :: vector < int > &a, std :: vector < int > &b) {
+    inline ll CRT(std :: vector < int > &a, std :: vector < int > &b) {
         ll prod = 1, ans = 0; int n = a.size(); assert(n == b.size()); 
         for(int i = 0; i < n; ++i) prod *= b[i]; 
         for(int i = 0; i < n; ++i) {
