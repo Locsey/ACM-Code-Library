@@ -1,9 +1,11 @@
 #include <bits/stdc++.h>
 
-namespace HLD {
-    
+namespace Solver {
+    inline void mian() {
+        printf("Hello world!"); 
+    }
 }
 int main() {
-
+    Solver :: mian(); 
     return 0; 
 }
