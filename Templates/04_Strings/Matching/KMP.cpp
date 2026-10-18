@@ -107,7 +107,7 @@ namespace Solver {
         for(int i = 1, j = 0; i <= n; ++i) {
             while(j && t[j + 1] != s[i]) j = nxt[j]; 
             if(t[j + 1] == s[i]) ++j; 
-            if(j == m) cout << i << '\n', j = nxt[j]; 
+            if(j == m) cout << i - m + 1 << '\n', j = nxt[j]; 
          }
          for(int i = 1; i <= m; ++i) cout << nxt[i] << ' '; 
     }
