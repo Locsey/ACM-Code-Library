@@ -139,6 +139,7 @@ struct FM {
         while (ks[p] && ks[p] != k) p = (p + 1) & msk;
         return ks[p] ? vs[p] : -1;
     }
+    
 };
 inline void Marionette_() {
     int n = read(), m = read();
