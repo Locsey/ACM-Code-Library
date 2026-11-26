@@ -2226,3 +2226,17 @@ $\textbf{2026/11/25 \ \ \ Day91 \ \ \ \ Timer : Day5}$
 我过了 3 + fxr 过了 3 + syh 过了 0，performance 感觉一般。
 
 好好休息，争取星期五给大家讲 toptree
+
+$\tectbf{2026/11/26 \ \ \ Day92 \ \ \ \ Timer : Day6}$
+
+早上 = 昨天，upd(早上，虎皮蛋糕)。
+
+上午数分，前半 toptree R 领先！，后边十遍!
+
+中午轻食。
+
+下午习概。
+
+晚上给大家点了个 pizza hat 就当是代替 crazy thursday 了。
+
+继续 working。晚上去跑跑步。
